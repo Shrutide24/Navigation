@@ -13,7 +13,7 @@ export default function Homepage({ navigation }) {
     return (
         <ScrollView>
       <View>
-        <Text style={{alignSelf:'center',margin:20,fontWeight:'bold',fontSize:20}}>SignUp</Text>
+        <Text style={{alignSelf:'center',margin:50,fontWeight:'bold',fontSize:20}}>SignUp</Text>
         <TextInput
         style={styles.input}
         placeholder="Name"

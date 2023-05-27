@@ -1,0 +1,38 @@
+1
+2  name=  asyn api()  server 30 second
+4
+5 conslle.log( wait name)  null
+5 conslle.log( wait name)  null
+6
+6
+7
+
+
+
+asyn await
+
+ https://dummyjson.com/products
+api :  url -> data -> jsonformate
+jsonformate-> key:value pair
+
+fraindList:[
+    {
+        name:'avinash',
+        mob:1233
+    },
+    {
+        name:'avinash',
+        mob:1233
+    }
+    ....
+]
+
+function print(){
+    console.log(Hii)
+    console.log(Hii)
+    console.log(Hii)
+    console.log(Hii)
+}
+
+<Button   onPress={print}/>
+<Button   onPress={print}/>
